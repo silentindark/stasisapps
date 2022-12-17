@@ -1,0 +1,4 @@
+*97 Feature Code -> Voicemail retrieval
+ - Caller = known PBX  user
+
+

@@ -1,0 +1,9 @@
+{
+	"mysql": {
+		"host": "10.11.0.8",
+		"port": "3306",
+		"user": "root",
+		"password": "nopass",
+		"database": "opensips"
+	}
+}
